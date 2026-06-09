@@ -1,0 +1,11 @@
+{
+    "name": "Hava Durumu",
+    "short_name": "HavaDurumu",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FFF8F0",
+    "theme_color": "#FF9800",
+    "description": "Flutter Hava Durumu Uygulaması",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
